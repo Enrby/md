@@ -10,7 +10,7 @@ public class Main {
         Book crime = new Book("Преступление и наказание", 1866, dostoevsky);
         Book war = new Book("Война и мир", 1867, tolstoy);
 
-        System.out.println(tolstoy.equals(tolstoy2  ));
+        System.out.println(tolstoy.equals(tolstoy2));
 
         System.out.println(crime);
         System.out.println(war);
